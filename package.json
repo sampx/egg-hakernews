@@ -1,0 +1,21 @@
+{
+  "name": "egg-hakernews",
+  "version": "1.0.0",
+  "description": "haker news app using egg framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sam",
+  "license": "MIT",
+  "repository": "git@github.com:sampx/egg-hakernews.git",
+  "scripts": {
+     "dev": "egg-bin dev"
+  },
+  "dependencies": {
+    "egg": "^1.4.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^3.4.2"
+  }
+}
